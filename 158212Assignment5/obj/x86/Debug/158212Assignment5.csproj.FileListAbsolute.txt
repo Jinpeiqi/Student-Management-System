@@ -1,0 +1,60 @@
+C:\temp\158212\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.exe
+C:\temp\158212\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.pdb
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.Properties.Resources.resources
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csproj.GenerateResource.Cache
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormStudent.resources
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormPaper.resources
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormSelectStudent.resources
+C:\temp\158212\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.dll
+C:\temp\158212\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.pdb
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.MainForm.resources
+C:\temp\158212\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csprojResolveAssemblyReference.cache
+C:\file\study2013\158212\158212Assignment5_F\158212Assignment5 - Copy\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+C:\file\study2013\158212\158212Assignment5_F\158212Assignment5 - Copy\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+C:\temp\158212\158212Assignment5_F\158212Assignment5 - Copy\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+C:\temp\158212\158212Assignment5_F\158212Assignment5 - Copy\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+C:\Massey\finished\158212\Assignments\Assignment05\158212Assignment5_F\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+C:\Massey\finished\158212\Assignments\Assignment05\158212Assignment5_F\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.exe
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.pdb
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.dll
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.pdb
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.MainForm.resources
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormPaper.resources
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormSelectStudent.resources
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormStudent.resources
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.Properties.Resources.resources
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csproj.GenerateResource.Cache
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.exe.CodeAnalysisLog.xml
+C:\Users\jpq\Desktop\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.exe.lastcodeanalysissucceeded
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.exe
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.pdb
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.dll
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.pdb
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.MainForm.resources
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormPaper.resources
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormSelectStudent.resources
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormStudent.resources
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.Properties.Resources.resources
+C:\Users\jpq\Desktop\新建文件夹 (5)\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csproj.GenerateResource.Cache
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.exe
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.pdb
+F:\158212A5\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.exe
+F:\158212A5\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5.pdb
+F:\158212A5\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.dll
+F:\158212A5\158212Assignment5\158212Assignment5\bin\Debug\158212Assignment5University.pdb
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csprojResolveAssemblyReference.cache
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.MainForm.resources
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormPaper.resources
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormSelectStudent.resources
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.FormStudent.resources
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\_158212Assignment5.Properties.Resources.resources
+F:\158212A5\158212Assignment5\158212Assignment5\obj\x86\Debug\158212Assignment5.csproj.GenerateResource.Cache
